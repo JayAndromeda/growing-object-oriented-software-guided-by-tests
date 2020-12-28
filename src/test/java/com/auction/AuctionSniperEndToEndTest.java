@@ -31,12 +31,12 @@ public class AuctionSniperEndToEndTest {
     application.showsSniperHasLostAuction();
   }
 
-  //@After
+  @After
   public void stopAuction() {
     auction.stop();
   }
 
-  //@After
+  @After
   public void stopApplication() {
     auction.stop();
   }
