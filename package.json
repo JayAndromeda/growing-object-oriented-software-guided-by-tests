@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "diff-so-fancy tool",
   "main": "index.js",
-  "author": "Wil Pannell <wil.pannell@gmail.com> (https://twitter.com/wilpannell)",
-  "license": "MIT"
+  "author": "Jason Rogers <nnja.jaay@gmail.com> github:JayAndromeda",
+  "license": "MIT",
 
   "devDependencies": {
     "diff-so-fancy": "1.2.0"
